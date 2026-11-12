@@ -65,7 +65,7 @@ Agent Skills are portable files, but **the host application must support the Age
 ### Option 2 — Clone
 
 ```bash
-git clone https://github.com/OWNER/aard-visual-director.git
+git clone https://github.com/aard-anonthanat/aard-visual-director.git
 ```
 
 Replace `OWNER` with the GitHub account or organization that publishes this repository. Then follow your agent's instructions for registering local skills.
