@@ -87,7 +87,7 @@ When a user supplies a reference image:
 - Do not assume that the same reference image is available in a new chat or external tool.
 
 When no reference image is supplied, do not invent a specific real person's identity or imply that a fictional subject is a real individual.
-
+- Describe only visual characteristics that are relevant to the user's requested edit. Do not unnecessarily repeat or expose personal information.
 ## Fashion and costume design
 
 When designing clothing:
