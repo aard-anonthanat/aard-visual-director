@@ -34,21 +34,19 @@ The skill does **not** generate an image unless the user explicitly asks and the
 
 ## Repository structure
 
-```text
+
 aard-visual-director/
-├── SKILL.md
-├── README.md
-├── LICENSE
-├── CONTRIBUTING.md
 ├── CHANGELOG.md
-├── references/
-│   ├── creative-direction.md
-│   ├── prompt-engineering.md
-│   └── reference-image-workflow.md
-└── examples/
-    ├── concept-set-example.md
-    └── prompt-revision-example.md
-```
+├── CONTRIBUTING.md
+├── LICENSE
+├── README.md
+├── SKILL.md
+├── concept-set-example.md
+├── creative-direction.md
+├── prompt-engineering.md
+├── prompt-revision-example.md
+└── reference-image-workflow.md
+
 
 ## Installation
 
@@ -64,11 +62,17 @@ Agent Skills are portable files, but **the host application must support the Age
 
 ### Option 2 — Clone
 
+
+### Option 2 — Clone
+
 ```bash
 git clone https://github.com/aard-anonthanat/aard-visual-director.git
 ```
 
-Replace `OWNER` with the GitHub account or organization that publishes this repository. Then follow your agent's instructions for registering local skills.
+Then follow your agent's instructions for registering local skills.
+
+
+
 
 ### Option 3 — Manual use
 
