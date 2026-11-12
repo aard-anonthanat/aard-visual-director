@@ -32,9 +32,13 @@ When the user asks for image ideas and does not specify a number, the skill prov
 
 The skill does **not** generate an image unless the user explicitly asks and the host application provides an image-generation capability.
 
+
+
+
+
 ## Repository structure
 
-
+```text
 aard-visual-director/
 ├── CHANGELOG.md
 ├── CONTRIBUTING.md
@@ -46,6 +50,8 @@ aard-visual-director/
 ├── prompt-engineering.md
 ├── prompt-revision-example.md
 └── reference-image-workflow.md
+```
+
 
 
 ## Installation
@@ -60,7 +66,7 @@ Agent Skills are portable files, but **the host application must support the Age
 4. Place the `aard-visual-director` folder in the skills directory used by your compatible agent.
 5. Restart or refresh the agent if required by that application.
 
-### Option 2 — Clone
+
 
 
 ### Option 2 — Clone
